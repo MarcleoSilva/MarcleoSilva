@@ -36,10 +36,9 @@ I’m a project-based learner transitioning from biology into tech, focused on b
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- Replace USERNAME below with your GitHub username -->
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcleoSilva&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MarcleoSilva&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcleoSilva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" />
 </p>
 
 ---
