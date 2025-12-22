@@ -2,7 +2,7 @@
 
 💻 **Junior Software Engineer | Data Science | Backend & Data Engineering (in progress)**  
 
-I’m a project-based learner transitioning from biology into tech, focused on building practical systems end-to-end. Right now I’m prioritizing **Java for backend** and **data structures**, while exploring **frontend (React)** and **data workflows (Python)**. I use projects as my primary way to learn—building, shipping, and refining until the concepts become real.
+I’m a project-based learner transitioning from biology into tech, focused on building practical systems end-to-end. Right now I’m prioritizing **Java for backend** and **data structures**, while exploring **frontend (React)** and **data workflows (Python)**.
 
 ---
 
