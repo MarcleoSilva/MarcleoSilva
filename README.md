@@ -4,7 +4,6 @@
 
 I’m a project-based learner transitioning from biology into tech, focused on building practical systems end-to-end. Right now I’m prioritizing **Java for backend** and **data structures**, while exploring **frontend (React)** and **data workflows (Python)**.
 
----
 
 ## About Me
 - 🔭 Currently studying **Java (backend)** and **Data Structures & Algorithms**.
@@ -12,7 +11,6 @@ I’m a project-based learner transitioning from biology into tech, focused on b
 - 🧩 I learn by shipping: small tools, pipelines, and full-stack prototypes.
 - 🤝 Open to collaborating on **backend services, data tooling, and automation** projects.
 
----
 
 ## 🛠️ Tech Stack (and tools I use)
 <p align="center">
@@ -32,7 +30,6 @@ I’m a project-based learner transitioning from biology into tech, focused on b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="44" height="44"/>
 </p>
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -40,7 +37,6 @@ I’m a project-based learner transitioning from biology into tech, focused on b
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcleoSilva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" />
 </p>
 
----
 
 ## 🌐 Connect with me
 <table align="center">
