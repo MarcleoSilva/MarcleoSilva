@@ -7,7 +7,7 @@ I’m a project-based learner transitioning from biology into tech, focused on b
 
 ## About Me
 - 🔭 Currently studying **Java (backend)** and **Data Structures & Algorithms**.
-- 🌱 Building skills in **data engineering foundations** (ETL, modeling, APIs, automation).
+- 🌱 Building skills in **data engineering foundations** and **software architecture**.
 - 🧩 I learn by shipping: small tools, pipelines, and full-stack prototypes.
 - 🤝 Open to collaborating on **backend services, data tooling, and automation** projects.
 
