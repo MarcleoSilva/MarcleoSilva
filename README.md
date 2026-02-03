@@ -33,7 +33,7 @@ I’m a project-based learner transitioning from biology into tech, focused on b
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcleoSilva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" />
+  ![Marcleo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcleoSilva&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 </p>
 
 
