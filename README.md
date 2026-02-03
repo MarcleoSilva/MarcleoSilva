@@ -30,13 +30,6 @@ I’m a project-based learner transitioning from biology into tech, focused on b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="44" height="44"/>
 </p>
 
-
-## 📊 GitHub Stats
-<p align="center">
-  ![Marcleo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcleoSilva&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-</p>
-
-
 ## 🌐 Connect with me
 <table align="center">
   <tr>
