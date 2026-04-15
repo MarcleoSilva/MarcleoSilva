@@ -1,4 +1,5 @@
-# Hi, I'm **Marcelo** 💻 **Junior Software Engineer | Data Science | Spring Boot Backend** I’m a project-based learner transitioning from biology into tech, focused on building practical systems with ownership. Right now I’m prioritizing **Java for backend** and **data structures**, while exploring **frontend (React)** and **data workflows (Python)**.
+# Hi, I'm **Marcelo** 💻 
+### **Junior Software Engineer | Data Science | Spring Boot Backend** I’m a project-based learner transitioning from biology into tech, focused on building practical systems with ownership. Right now I’m prioritizing **Java for backend** and **data structures**, while exploring **frontend (React)** and **data workflows (Python)**.
 
 ## About Me
 - 🔭 Currently studying **Java (backend)** and **Data Structures & Algorithms**.
