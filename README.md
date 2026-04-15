@@ -1,9 +1,4 @@
-# Hi, I'm **Marcelo**  
-
-💻 **Junior Software Engineer | Data Science | Spring Boot Backend**  
-
-I’m a project-based learner transitioning from biology into tech, focused on building practical systems with ownership. Right now I’m prioritizing **Java for backend** and **data structures**, while exploring **frontend (React)** and **data workflows (Python)**.
-
+# Hi, I'm **Marcelo** 💻 **Junior Software Engineer | Data Science | Spring Boot Backend** I’m a project-based learner transitioning from biology into tech, focused on building practical systems with ownership. Right now I’m prioritizing **Java for backend** and **data structures**, while exploring **frontend (React)** and **data workflows (Python)**.
 
 ## About Me
 - 🔭 Currently studying **Java (backend)** and **Data Structures & Algorithms**.
@@ -11,26 +6,20 @@ I’m a project-based learner transitioning from biology into tech, focused on b
 - 🧩 I learn by shipping: small tools, pipelines, and full-stack prototypes.
 - 🤝 Open to collaborating on **backend services, data tooling, and automation** projects.
 
-
 ## 🛠️ Tech Stack (and tools I use)
-<p align="center">
-  <!-- Frontend -->
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="44" height="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="44" height="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="44" height="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="44" height="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="44" height="44"/>
-
-  <!-- Backend / Data -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="44" height="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="44" height="44"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Springboot" width="44" height="44"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="44" height="44"/>
-
-  <!-- Tooling -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="44" height="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="44" height="44"/>
-</p>
+</div>
 
 ## 🌐 Connect with me
 <table align="center">
@@ -46,4 +35,3 @@ I’m a project-based learner transitioning from biology into tech, focused on b
     </td>
   </tr>
 </table>
-
