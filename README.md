@@ -39,7 +39,7 @@ I’m a project-based learner transitioning from biology into tech, focused on b
       <a href="mailto:marceloaraujosilva739@gmail.com"><img src="https://img.shields.io/badge/Gmail-0b7285?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail"></a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/marcelo-araujo-s/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0b7285?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"></a>
+      <a href="https://www.linkedin.com/in/marcelo-araujo-s/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0b7285?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"></a>
     </td>
     <td>
       <a href="https://github.com/MarcleoSilva" target="_blank"><img src="https://img.shields.io/badge/GitHub-0b7285?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"></a>
