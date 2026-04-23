@@ -15,6 +15,7 @@ I’m a project-based learner transitioning from biology into tech, focused on b
 ## 🛠️ Tech Stack (and tools I use)
 <div align="center">
   <img src="./header.jpg">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcleoSilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ## 🌐 Connect with me
