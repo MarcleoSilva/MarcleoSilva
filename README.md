@@ -4,10 +4,10 @@
 💻 **Data Science | Fullstack Development | Backend: NestJS & Spring Boot**  
 
 
-I’m a project-based learner transitioning from biology into tech, focused on building practical systems with ownership. Right now I’m prioritizing **Java for backend** and **data structures**, while exploring **frontend (React)** and **data workflows (Python)**. 
+I’m a project-based learner transitioning from biology into tech, focused on building practical systems with ownership. Right now I’m prioritizing **Node.js for backend** and **data structures**, while exploring **frontend (React)** and **data analysis/statistics (Python)**. 
 
 ## About Me
-- 🔭 Currently studying **Java (backend)**, **Data Structures** and **Algorithms**.
+- 🔭 Currently studying **TypeScript in NestJS (backend)**, **Data Structures** and **Algorithms**.
 - 🌱 Building skills in **backend development** and **software architecture**.
 - 🧩 I like to learn by shipping: small tools, pipelines, and full-stack projects.
 - 🤝 Open to collaborating on **backend services, data tooling, and automation** projects.
