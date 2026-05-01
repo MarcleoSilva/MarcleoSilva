@@ -1,7 +1,7 @@
  # Hi, I'm **Marcelo**  
 
 
-💻 **Data Science | Software Engineering | Spring Boot Backend**  
+💻 **Data Science | Fullstack Development | Backend: NestJS & Spring Boot**  
 
 
 I’m a project-based learner transitioning from biology into tech, focused on building practical systems with ownership. Right now I’m prioritizing **Java for backend** and **data structures**, while exploring **frontend (React)** and **data workflows (Python)**. 
