@@ -15,7 +15,7 @@ I’m a project-based learner transitioning from biology into tech, focused on b
 ## 🛠️ Tech Stack (and tools I use)
 <div align="center">
   <img src="./headerv2.jpg">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcleoSilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=true&order=2" height="150" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcleoSilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=true&order=2" height="150" alt=""  />
 </div>
 
 ## 🌐 Connect with me
@@ -26,9 +26,6 @@ I’m a project-based learner transitioning from biology into tech, focused on b
     </td>
     <td>
       <a href="https://www.linkedin.com/in/marcelo-araujo-s/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0b7285?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"></a>
-    </td>
-    <td>
-      <a href="https://github.com/MarcleoSilva" target="_blank"><img src="https://img.shields.io/badge/GitHub-0b7285?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"></a>
     </td>
   </tr>
 </table>
