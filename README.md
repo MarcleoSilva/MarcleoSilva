@@ -11,6 +11,7 @@ I’m a project-based learner transitioning from biology into tech, focused on b
 - 🌱 Building skills in **backend development** and **software architecture**.
 - 🧩 I like to learn by shipping: small tools, pipelines, and full-stack projects.
 - 🤝 Open to collaborating on **backend services, data tooling, and automation** projects.
+- I use Arch (btw)
 
 ## 🛠️ Tech Stack (and tools I use)
 <div align="center">
